@@ -1,1 +1,6 @@
-.git/
+# Ignorar diretórios .git em qualquer nível
+**/.git/
+
+# Ignorar outros arquivos ou diretórios temporários
+*.log
+temp/
